@@ -1,15 +1,14 @@
-## Project Info
-This is "course project 2"
+## FS1010 Final Project
 
 ## Environment Configuration
 
-Install node on your machine and get it running.
+Install Node.js on your machine
 
-clone repo
+Clone repository to your machine
 
-run npm install
+Open your terminal and enter "npm install"
 
-## How to Start the app
+## Starting Project in Browser
 
 run npm start - to get project running
 
